@@ -15,11 +15,13 @@ validate the request from the user and persist (inserts or updates) the data in 
 **Project Set-Up**
  
 **Set up Parse server**
+
 Setting up of the parse server is carried out before building the application.
 
 **Deploying with back4app:**
  
 back4app allows you to manage changes to deploy easily by specifying a GitHub repository to use. In addition, it comes with a UI data viewer from mLab.
+
 1.Sign In to back4app
  
 2.Select build new app
