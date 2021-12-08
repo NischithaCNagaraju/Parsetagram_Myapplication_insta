@@ -76,12 +76,16 @@ Parse has a specialized ParseUser as a part of their SDK which handles the funct
 
 **Functionalities of the App:**
 
-[x] User can sign up to create a new account using Parse authentication.
-[x] User can log in and log out of his or her account
-[x] The current signed in user is persisted across app restarts
-[x] User can take a photo, add a caption, and post it to "Parsetagram"
-[x] User can view the last 20 posts submitted to "Parsetagram" 
-[x] The user should switch between different tabs - viewing all posts (feed view), compose (capture photos from camera) and profile tabs (posts made) using fragments and a Bottom Navigation View.
+- [x] User can sign up to create a new account using Parse authentication.
+- [x] User can log in and log out of his or her account
+- [x] The current signed in user is persisted across app restarts
+- [x] User can take a photo, add a caption, and post it to "Parsetagram"
+- [x] User can view the last 20 posts submitted to "Parsetagram" 
+- [x] The user should switch between different tabs - viewing all posts (feed view), compose (capture photos from camera) and profile tabs (posts made) using fragments and a Bottom Navigation View.
+
+## Video Walkthrough
+
+**Here's a walkthrough of implemented functionalities**  <img src='https://user-images.githubusercontent.com/61173798/109446412-7e21eb80-79f6-11eb-90cd-99833485b406.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
