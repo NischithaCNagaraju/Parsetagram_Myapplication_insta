@@ -41,27 +41,27 @@ Setting up of the parse server is carried out before building the application.
  
 back4app allows you to manage changes to deploy easily by specifying a GitHub repository to use. In addition, it comes with a UI data viewer from mLab.
 
-1.Sign In to back4app
+  1.Sign In to back4app
  
-2.Select build new app
+  2.Select build new app
 
 <img width="464" alt="dashboard" src="https://user-images.githubusercontent.com/61173798/145264359-66929241-3c7c-425d-981d-216ae6b651f5.PNG">
 
-3.Enter a name for your app and click Create.
+  3.Enter a name for your app and click Create.
 
-4.Once the setup is finished, you should see the dashboard for your app.
+  4.Once the setup is finished, you should see the dashboard for your app.
 
 <img width="477" alt="dashboard" src="https://user-images.githubusercontent.com/61173798/145264712-6d71de7f-8369-4f5f-8eaf-7f304daf7f51.PNG">
 
-####Install parse SDK
+**Install parse SDK**
 
-####Initialize SDK
+**Initialize SDK**
 
 <img width="477" alt="Initialize" src="https://user-images.githubusercontent.com/61173798/145265405-d161ee36-c61f-4ffa-ac3a-884357917226.PNG">
 
-####Setup network permisiions
+**Setup network permisiions**
 
-####Parse Dashboard
+**Parse Dashboard**
 
 It allows us to see how data gets added to your Parse server.
 
@@ -71,17 +71,17 @@ It allows us to see how data gets added to your Parse server.
 
 **Functionalities of Parsetagram**
 
-#####Working with Users
+**Working with Users**
 Parse has a specialized ParseUser as a part of their SDK which handles the functionality of users accessing their information in a secure manner.
 
-######Functionalities of the App:
+**Functionalities of the App:**
 
-[x]User can sign up to create a new account using Parse authentication.
-[x]User can log in and log out of his or her account
-[x]The current signed in user is persisted across app restarts
-[x]User can take a photo, add a caption, and post it to "Parsetagram"
-[x]User can view the last 20 posts submitted to "Parsetagram" 
-[x]The user should switch between different tabs - viewing all posts (feed view), compose (capture photos from camera) and profile tabs (posts made) using fragments and a Bottom Navigation View.
+[x] User can sign up to create a new account using Parse authentication.
+[x] User can log in and log out of his or her account
+[x] The current signed in user is persisted across app restarts
+[x] User can take a photo, add a caption, and post it to "Parsetagram"
+[x] User can view the last 20 posts submitted to "Parsetagram" 
+[x] The user should switch between different tabs - viewing all posts (feed view), compose (capture photos from camera) and profile tabs (posts made) using fragments and a Bottom Navigation View.
 
 
 
