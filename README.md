@@ -85,7 +85,8 @@ Parse has a specialized ParseUser as a part of their SDK which handles the funct
 
 ## Video Walkthrough
 
-**Here's a walkthrough of implemented functionalities**  <img src='https://user-images.githubusercontent.com/61173798/109446412-7e21eb80-79f6-11eb-90cd-99833485b406.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+**Here's a walkthrough of implemented functionalities**  <img src='https://user-images.githubusercontent.com/61173798/145272562-ee18eeb1-3afb-45d8-9c50-0c4e74d772b2.mp4
+' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
